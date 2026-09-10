@@ -1,6 +1,6 @@
 config {
     type: "declaration",
-    database: "PROJECT",
+    database: "df_nodematic",
     schema: "youtube",
     name: "p_channel_traffic_source_a2_channel",
 }
