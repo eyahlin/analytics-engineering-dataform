@@ -1,6 +1,6 @@
 config {
     type: "declaration",
-    database: "df_nodematic",
-    schema: "youtube_analytics",
+    database: "proj-louise-dev",
+    schema: "df_nodematic",
     name: "src_traffic_descriptions",
 }

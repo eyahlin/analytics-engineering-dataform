@@ -1,6 +1,6 @@
 config {
     type: "declaration",
-    database: "df_nodematic",
-    schema: "youtube",
+    database: "proj-louise-dev",
+    schema: "df_nodematic",
     name: "p_channel_province_a2_channel",
 }
